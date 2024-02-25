@@ -6,7 +6,7 @@ Welcome to the Fundamentals of Data Analysis repository! This repository covers 
 
 - Overview: Joining Datasets
     - Basic GCP and Population Join
-    - Codio Activity 4.1: Basic Joins on Datasets
+    - Codio Activity 4.1: Basic Joins on Datasets    
         - Problem 1 Basic Joins on Datasets
         - Problem 2 Basic Joins on Datasets
         - Problem 3 Basic Joins on Datasets
@@ -20,6 +20,7 @@ Welcome to the Fundamentals of Data Analysis repository! This repository covers 
         - Problem 3 Complex Joins on Datasets
         - Problem 4 Complex Joins on Datasets
         - Problem 5 Complex Joins on Datasets
+
 - Overview: Plotting Datasets
     - Mini-Lesson 4.1: Histograms and Distribution Plots
         - Scatterplot
@@ -59,6 +60,7 @@ Welcome to the Fundamentals of Data Analysis repository! This repository covers 
         - Problem 12 Creating Violin, Box, and Joint Plots
         - Problem 13 Creating Violin, Box, and Joint Plots
         - Problem 14 Creating Violin, Box, and Joint Plots
+
 - Overview: Data Cleaning
     - String Data
     - Working with real world string data (Example)
@@ -83,19 +85,19 @@ Welcome to the Fundamentals of Data Analysis repository! This repository covers 
         - Problem 7 Data Cleaning
         - Problem 8 Data Cleaning
         - Problem 9 Data Cleaning
-    - Even Larger Datasets
+
 - Glossary
 
 ## Overview
+Welcome to the Fundamentals of Data Analysis repository! This repository covers essential concepts and techniques in data analysis, from joining datasets to plotting and data cleaning.
 
-This section provides an introduction to joining datasets, covering basic and complex joins, and practical coding activities to reinforce your understanding.
+### Overview: Joining Datasets
+Joining datasets is a crucial aspect of data analysis, allowing us to combine information from multiple sources. In this section, we explore basic and complex joins on datasets using Python libraries like Pandas. Through coding activities, you'll learn how to merge datasets based on common fields and perform multi-field joins efficiently.
 
-## Plotting Datasets
+### Overview: Plotting Datasets
+Visualizing data is essential for gaining insights and communicating findings effectively. In this section, we cover various types of plots, including histograms, scatterplots, box plots, and joint plots. Through mini-lessons and coding activities, you'll learn how to create and customize plots using libraries like Matplotlib and Seaborn.
 
-Explore various types of plots such as histograms, distribution plots, scatterplots, joint plots, violin plots, and box plots. Engage in hands-on activities to visualize and interpret multivariate datasets effectively.
+### Overview: Data Cleaning
+Data cleaning is a critical step in the data analysis process, ensuring that datasets are accurate, consistent, and reliable. In this section, we discuss common data cleaning tasks, such as handling missing data, eliminating duplicates, and filtering outliers. Through mini-lessons and coding activities, you'll learn essential techniques for cleaning and validating data effectively.
 
-## Data Cleaning
-
-Learn about data cleaning techniques, including string operations, steps to data cleaning, and practical coding activities to clean and preprocess real-world datasets effectively.
-
-Get ready to dive into the fundamentals of data analysis with us!
+Embark on this exciting journey into the world of data analysis, and equip yourself with the skills and knowledge to tackle real-world data challenges with confidence!
